@@ -1,0 +1,36 @@
+.vent {
+    text-align: center;
+    color: rgb(69, 21, 182);
+    font-size: 28px;
+    font-weight: 20;
+    border-color: rgba(112, 209, 233, 0.966);
+    border-width: 10px;
+    border-style: double;
+    border-radius: 20px;
+    padding: 3px 10px;
+}
+
+.bot {
+    background-color: #9a5cccc9;
+    border: none;
+    color: rgb(12, 1, 1);
+    padding: 15px 20px;
+    border-radius:20px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: 10px;
+
+}
+.botS {
+  background-color: #9a5cccc9;
+    border: none;
+    color: rgb(12, 1, 1);
+    padding: 15px 20px;
+    border-radius:20px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: 10px; 
+}
+  
